@@ -4,7 +4,7 @@
 
 ### Learning C by writing, practicing, and building
 
-`C11` · `Beginner → Intermediate` · `Examples + Practice + Projects`
+`C` · `Beginner → Intermediate` · `Examples + Practice + Projects`
 
 ![Language](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Learn%20by%20doing-2ea44f?style=for-the-badge)
@@ -34,7 +34,7 @@ Each topic is organized the same way:
 <summary><strong>🌱 Foundations</strong> — start here</summary>
 
 | Topic |
-|---|---|
+|---|
 | Getting started |
 | Variables, data types, and input/output |
 | Operators and expressions |
@@ -48,7 +48,7 @@ Each topic is organized the same way:
 <summary><strong>🧰 Core C concepts</strong> — work with collections and reusable code</summary>
 
 | Topic |
-|---|---|
+|---|
 | Arrays and matrices |
 | Strings |
 | Functions and recursion |
@@ -61,7 +61,7 @@ Each topic is organized the same way:
 <summary><strong>⚙️ Memory and files</strong> — explore how C works closer to the machine</summary>
 
 | Topic |
-|---|---|
+|---|
 | Pointers |
 | Function pointers |
 | Dynamic memory allocation |
