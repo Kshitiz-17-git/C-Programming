@@ -33,39 +33,33 @@ Each topic is organized the same way:
 <details open>
 <summary><strong>🌱 Foundations</strong> — start here</summary>
 
-| Topic |
-|---|
-| Getting started |
-| Variables, data types, and input/output |
-| Operators and expressions |
-| Conditions |
-| Loops and control statements |
-| Storage classes and scope |
+- Getting started
+- Variables, data types, and input/output
+- Operators and expressions
+- Conditions
+- Loops and control statements
+- Storage classes and scope
 
 </details>
 
 <details>
 <summary><strong>🧰 Core C concepts</strong> — work with collections and reusable code</summary>
 
-| Topic |
-|---|
-| Arrays and matrices |
-| Strings |
-| Functions and recursion |
-| Structures and `typedef` |
-| Unions and enums |
+- Arrays and matrices
+- Strings
+- Functions and recursion
+- Structures and `typedef`
+- Unions and enums
 
 </details>
 
 <details>
 <summary><strong>⚙️ Memory and files</strong> — explore how C works closer to the machine</summary>
 
-| Topic |
-|---|
-| Pointers |
-| Function pointers |
-| Dynamic memory allocation |
-| File handling |
+- Pointers
+- Function pointers
+- Dynamic memory allocation
+- File handling
 
 </details>
 
